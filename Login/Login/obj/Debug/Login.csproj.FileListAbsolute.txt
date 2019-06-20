@@ -1,0 +1,471 @@
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\WindowsForms\Login\Login\bin\Debug\Login.exe.config
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\WindowsForms\Login\Login\bin\Debug\Login.exe
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\WindowsForms\Login\Login\bin\Debug\Login.pdb
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\WindowsForms\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\WindowsForms\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\WindowsForms\Login\Login\obj\Debug\Login.MainWindow.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\WindowsForms\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\WindowsForms\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\WindowsForms\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\WindowsForms\Login\Login\obj\Debug\Login.exe
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\WindowsForms\Login\Login\obj\Debug\Login.pdb
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\bin\Debug\Login.exe.config
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\bin\Debug\Login.exe
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\bin\Debug\Login.pdb
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.MainWindow.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.exe
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.pdb
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.Menu.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.Food1.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.Food2.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.Food3.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.Food4.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.Food5.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.Food6.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.Food7.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.Food10.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.Food11.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.Food12.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.Food13.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.Food14.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.Food8.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.Food9.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.Info.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.Registr.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.Questions.resources
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\bin\Debug\Сеть ресторанов.mdb
+C:\Users\lebed\Desktop\Сап двач [КУРСАЧ]\Та самая программа\Login\Login\obj\Debug\Login.MainAdminForm.resources
+C:\Users\lebed\Desktop\Тест 2\Та самая программа\Login\Login\bin\Debug\Сеть ресторанов.mdb
+C:\Users\lebed\Desktop\Тест 2\Та самая программа\Login\Login\bin\Debug\Login.exe.config
+C:\Users\lebed\Desktop\Тест 2\Та самая программа\Login\Login\bin\Debug\Login.exe
+C:\Users\lebed\Desktop\Тест 2\Та самая программа\Login\Login\bin\Debug\Login.pdb
+C:\Users\lebed\Desktop\Тест 2\Та самая программа\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\lebed\Desktop\Тест 2\Та самая программа\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\lebed\Desktop\Тест 2\Та самая программа\Login\Login\obj\Debug\Login.Info.resources
+C:\Users\lebed\Desktop\Тест 2\Та самая программа\Login\Login\obj\Debug\Login.MainAdminForm.resources
+C:\Users\lebed\Desktop\Тест 2\Та самая программа\Login\Login\obj\Debug\Login.MainWindow.resources
+C:\Users\lebed\Desktop\Тест 2\Та самая программа\Login\Login\obj\Debug\Login.Menu.resources
+C:\Users\lebed\Desktop\Тест 2\Та самая программа\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\lebed\Desktop\Тест 2\Та самая программа\Login\Login\obj\Debug\Login.Questions.resources
+C:\Users\lebed\Desktop\Тест 2\Та самая программа\Login\Login\obj\Debug\Login.Registr.resources
+C:\Users\lebed\Desktop\Тест 2\Та самая программа\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\lebed\Desktop\Тест 2\Та самая программа\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\lebed\Desktop\Тест 2\Та самая программа\Login\Login\obj\Debug\Login.exe
+C:\Users\lebed\Desktop\Тест 2\Та самая программа\Login\Login\obj\Debug\Login.pdb
+C:\Users\lebed\Desktop\Тест 2\Та самая программа\Login\Login\obj\Debug\Login.WriteQuestion.resources
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Login.exe.config
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Login.exe
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Login.pdb
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.Info.resources
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.MainAdminForm.resources
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.MainWindow.resources
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.Menu.resources
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.Questions.resources
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.Registr.resources
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.WriteQuestion.resources
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.exe
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.pdb
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.GPS.resources
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Login.exe.config
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Login.exe
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Login.pdb
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.GPS.resources
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.Info.resources
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.MainAdminForm.resources
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.MainWindow.resources
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.Menu.resources
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.Questions.resources
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.Registr.resources
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.WriteQuestion.resources
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.exe
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.pdb
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\EnvDTE.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\stdole.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.MSXML.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.Order.resources
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Мережа ресторанів.mdb
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.Chair.resources
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.Report.resources
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Мережа ресторанів.mdb
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Login.exe
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Login.pdb
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\EnvDTE.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\stdole.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.Chair.resources
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.GPS.resources
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.Info.resources
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.MainAdminForm.resources
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.MainWindow.resources
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.Menu.resources
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.Order.resources
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.Questions.resources
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.Registr.resources
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.Report.resources
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.WriteQuestion.resources
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.exe
+C:\Users\Елена\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.pdb
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\bin\Debug\Microsoft.Speech.dll
+C:\Users\lebed\Desktop\Курсовая\Та самая программа\Login\Login\obj\Debug\Login.VoiceMenu.resources
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Мережа ресторанів.mdb
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.Speech.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\EnvDTE.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\stdole.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.MSXML.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.Chair.resources
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.Order.resources
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.Report.resources
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.VoiceMenu.resources
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\lebed\Desktop\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\NAudio.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Мережа ресторанів.mdb
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Login.exe.config
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Login.exe
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Login.pdb
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\EnvDTE.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\stdole.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.MSXML.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.Chair.resources
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.GPS.resources
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.Info.resources
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.MainAdminForm.resources
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.MainWindow.resources
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.Menu.resources
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.Order.resources
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.Questions.resources
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.Registr.resources
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.VoiceMenu.resources
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.WriteQuestion.resources
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.exe
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.pdb
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\bin\Debug\Microsoft.Speech.dll
+C:\Users\lebed\OneDrive\Рабочий стол\Курсач\Курсовая — копия\Та самая программа\Login\Login\obj\Debug\Login.Error.resources
+C:\terminal2\Login\Login\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\terminal2\Login\Login\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\terminal2\Login\Login\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\terminal2\Login\Login\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\terminal2\Login\Login\bin\Debug\Мережа ресторанів.mdb
+C:\terminal2\Login\Login\bin\Debug\Login.exe.config
+C:\terminal2\Login\Login\bin\Debug\Login.exe
+C:\terminal2\Login\Login\bin\Debug\Login.pdb
+C:\terminal2\Login\Login\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\terminal2\Login\Login\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\terminal2\Login\Login\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\terminal2\Login\Login\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\terminal2\Login\Login\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\terminal2\Login\Login\bin\Debug\Microsoft.Speech.dll
+C:\terminal2\Login\Login\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\terminal2\Login\Login\bin\Debug\EnvDTE.dll
+C:\terminal2\Login\Login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\terminal2\Login\Login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\terminal2\Login\Login\bin\Debug\stdole.dll
+C:\terminal2\Login\Login\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\terminal2\Login\Login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\terminal2\Login\Login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\terminal2\Login\Login\bin\Debug\Microsoft.MSXML.dll
+C:\terminal2\Login\Login\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\terminal2\Login\Login\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\terminal2\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\terminal2\Login\Login\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\terminal2\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\terminal2\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\terminal2\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\terminal2\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\terminal2\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\terminal2\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\terminal2\Login\Login\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\terminal2\Login\Login\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\terminal2\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\terminal2\Login\Login\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\terminal2\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\terminal2\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\terminal2\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\terminal2\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\terminal2\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\terminal2\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\terminal2\Login\Login\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\terminal2\Login\Login\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\terminal2\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\terminal2\Login\Login\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\terminal2\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\terminal2\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\terminal2\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\terminal2\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\terminal2\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\terminal2\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\terminal2\Login\Login\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\terminal2\Login\Login\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\terminal2\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\terminal2\Login\Login\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\terminal2\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\terminal2\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\terminal2\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\terminal2\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\terminal2\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\terminal2\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\terminal2\Login\Login\obj\Debug\Login.Error.resources
+C:\terminal2\Login\Login\obj\Debug\Login.Form1.resources
+C:\terminal2\Login\Login\obj\Debug\Login.Chair.resources
+C:\terminal2\Login\Login\obj\Debug\Login.Info.resources
+C:\terminal2\Login\Login\obj\Debug\Login.MainAdminForm.resources
+C:\terminal2\Login\Login\obj\Debug\Login.MainWindow.resources
+C:\terminal2\Login\Login\obj\Debug\Login.Menu.resources
+C:\terminal2\Login\Login\obj\Debug\Login.Order.resources
+C:\terminal2\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\terminal2\Login\Login\obj\Debug\Login.Questions.resources
+C:\terminal2\Login\Login\obj\Debug\Login.Registr.resources
+C:\terminal2\Login\Login\obj\Debug\Login.WriteQuestion.resources
+C:\terminal2\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\terminal2\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\terminal2\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\terminal2\Login\Login\obj\Debug\Login.exe
+C:\terminal2\Login\Login\obj\Debug\Login.pdb
